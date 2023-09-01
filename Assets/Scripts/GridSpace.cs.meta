@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d49dcf55e95d61e0b979b384566bd05f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - button: {fileID: 5585216560954124706, guid: f392ab513ccfbaba78b094a13037bfc4, type: 3}
+  - textMeshProUGUI: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
